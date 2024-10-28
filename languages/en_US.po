@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-29 10:08+0600\n"
+"PO-Revision-Date: 2022-03-29 10:08+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __(;esc_html__;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/enqueue-script.php:44
+msgid "New item"
+msgstr ""
+
+#: includes/enqueue-script.php:45
+msgid "Shortcode has been copied."
+msgstr ""
+
+#: includes/register-meta-boxes.php:76
+msgid "Accordion Type"
+msgstr ""
+
+#: includes/register-meta-boxes.php:80 includes/register-meta-boxes.php:109
+#: includes/register-meta-boxes.php:146
+msgid "Content"
+msgstr ""
+
+#: includes/register-meta-boxes.php:84
+msgid "Posts (Pro)"
+msgstr ""
+
+#: includes/register-meta-boxes.php:94
+msgid "Item #"
+msgstr ""
+
+#: includes/register-meta-boxes.php:105 includes/register-meta-boxes.php:142
+msgid "Title"
+msgstr ""
+
+#: includes/register-meta-boxes.php:127
+msgid "New Item"
+msgstr ""
+
+#: includes/register-meta-boxes.php:157
+msgid "Add new item"
+msgstr ""
+
+#: includes/register-meta-boxes.php:220 includes/register-meta-boxes.php:230
+msgid "Copied to clipboard"
+msgstr ""
+
+#: includes/register-post-type.php:59 includes/register-post-type.php:71
+msgid "Accordion FAQs"
+msgstr ""
+
+#: includes/register-post-type.php:60
+msgid "Accordion"
+msgstr ""
+
+#: includes/register-post-type.php:61
+msgid "Add New"
+msgstr ""
+
+#: includes/register-post-type.php:62
+msgid "Add Accordion FAQ"
+msgstr ""
+
+#: includes/register-post-type.php:63
+msgid "Edit Accordion FAQ"
+msgstr ""
+
+#: includes/register-post-type.php:64
+msgid "New Accordion"
+msgstr ""
+
+#: includes/register-post-type.php:65
+msgid "View Accordion"
+msgstr ""
+
+#: includes/register-post-type.php:66
+msgid "Search Accordion FAQ"
+msgstr ""
+
+#: includes/register-post-type.php:67
+msgid "No WP Accordion found."
+msgstr ""
+
+#: includes/register-post-type.php:68
+msgid "No WP Accordion found in trash."
+msgstr ""
+
+#: includes/register-post-type.php:69
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/register-post-type.php:70
+msgid "Accordion FAQ Builder"
+msgstr ""
